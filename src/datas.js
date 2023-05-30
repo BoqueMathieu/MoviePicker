@@ -8,9 +8,9 @@ export const datas = [
   {
     "id": 1,
     "title": "Les dents de la mer",
-    "description": "Un requin voulais manger des gens Un requin voulais manger des gens Un requin voulais manger des gens Un requin voulais manger des gens Un requin voulais manger des gens ddddddddddddddd",
+    "description": "Un requin voulais manger des vacanciers venus se ressourcer.",
     "imgSrc": bali,
-    headerClick : true
+    headerClick: true
   },
   {
     "id": 2,
@@ -18,14 +18,14 @@ export const datas = [
     "description": "Faut-il ce méfier 2fois plus?",
 
     "imgSrc": valley,
-    headerClick : true
+    headerClick: true
   },
   {
     "id": 3,
     "title": "Les deux petits cochon",
     "description": "Moins ils sont plus ils sont dangereux",
     "imgSrc": pigs,
-    headerClick : true
+    headerClick: true
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@ export const datas = [
     "description": "Le début de quelquechose",
 
     "imgSrc": happyMothersDay,
-    headerClick : true
+    headerClick: true
   },
   {
     "id": 5,
@@ -41,6 +41,6 @@ export const datas = [
     "description": "Que cache ce petit chien?",
 
     "imgSrc": dog,
-    headerClick : true
+    headerClick: true
   }
 ]
